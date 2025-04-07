@@ -1,10 +1,10 @@
-# Chapter 01: Video 06 – challenge
+# Chapter 01: Video 07 – solution
 
-This branch contains the code for **Chapter 01, Video 06** of the LinkedIn Learning course **"Advanced Playwright Techniques: Optimizing Speed, Stability, and Cloud Testing."**
+This branch contains the code for **Chapter 01, Video 07** of the LinkedIn Learning course **"Advanced Playwright Techniques: Optimizing Speed, Stability, and Cloud Testing."**
 
 ## 🎯 What You'll Learn
 
-- Concept: challenge
+- Concept: solution
 - Refer to the video for detailed steps and explanation
 
 ## ▶️ How to Run
