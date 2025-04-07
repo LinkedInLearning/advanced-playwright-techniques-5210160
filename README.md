@@ -1,10 +1,10 @@
-# Chapter 03: Video 02 – screenshot
+# Chapter 03: Video 03 – snapshot
 
-This branch contains the code for **Chapter 03, Video 02** of the LinkedIn Learning course **"Advanced Playwright Techniques: Optimizing Speed, Stability, and Cloud Testing."**
+This branch contains the code for **Chapter 03, Video 03** of the LinkedIn Learning course **"Advanced Playwright Techniques: Optimizing Speed, Stability, and Cloud Testing."**
 
 ## 🎯 What You'll Learn
 
-- Concept: screenshot
+- Concept: snapshot
 - Refer to the video for detailed steps and explanation
 
 ## ▶️ How to Run
