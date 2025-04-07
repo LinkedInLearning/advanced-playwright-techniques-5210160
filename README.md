@@ -1,10 +1,10 @@
-# Chapter 04: Video 03 – setting up framework
+# Chapter 04: Video 05 – challenge
 
-This branch contains the code for **Chapter 04, Video 03** of the LinkedIn Learning course **"Advanced Playwright Techniques: Optimizing Speed, Stability, and Cloud Testing."**
+This branch contains the code for **Chapter 04, Video 05** of the LinkedIn Learning course **"Advanced Playwright Techniques: Optimizing Speed, Stability, and Cloud Testing."**
 
 ## 🎯 What You'll Learn
 
-- Concept: setting up framework
+- Concept: challenge
 - Refer to the video for detailed steps and explanation
 
 ## ▶️ How to Run
