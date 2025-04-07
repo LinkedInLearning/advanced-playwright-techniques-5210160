@@ -1,10 +1,10 @@
-# Chapter 02: Video 03 – staUle locators
+# Chapter 02: Video 04 – mocking api
 
-This branch contains the code for **Chapter 02, Video 03** of the LinkedIn Learning course **"Advanced Playwright Techniques: Optimizing Speed, Stability, and Cloud Testing."**
+This branch contains the code for **Chapter 02, Video 04** of the LinkedIn Learning course **"Advanced Playwright Techniques: Optimizing Speed, Stability, and Cloud Testing."**
 
 ## 🎯 What You'll Learn
 
-- Concept: staUle locators
+- Concept: mocking api
 - Refer to the video for detailed steps and explanation
 
 ## ▶️ How to Run
