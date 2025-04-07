@@ -1,10 +1,10 @@
-# Chapter 01: Video 04 – handle cookies
+# Chapter 01: Video 06 – challenge
 
-This branch contains the code for **Chapter 01, Video 04** of the LinkedIn Learning course **"Advanced Playwright Techniques: Optimizing Speed, Stability, and Cloud Testing."**
+This branch contains the code for **Chapter 01, Video 06** of the LinkedIn Learning course **"Advanced Playwright Techniques: Optimizing Speed, Stability, and Cloud Testing."**
 
 ## 🎯 What You'll Learn
 
-- Concept: handle cookies
+- Concept: challenge
 - Refer to the video for detailed steps and explanation
 
 ## ▶️ How to Run

@@ -1,16 +1,14 @@
 {
-	"name": "Handle Cookies in Playwright",
-	"version": "1.0.0",
-	"main": "index.js",
-	"scripts": {
-		"server": "node cookie-example/server.js"
-	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
-	"description": "",
-	"devDependencies": {
-		"@playwright/test": "^1.51.0",
-		"@types/node": "^22.13.10"
-	}
+  "name": "01_02_vscode_time",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.51.0",
+    "@types/node": "^22.13.10"
+  }
 }
