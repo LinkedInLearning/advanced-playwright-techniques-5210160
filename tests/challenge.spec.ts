@@ -22,7 +22,7 @@ test("Slow test challenge – Can you optimise this?", async ({ page }) => {
 	// 🔴 Artificial loop causing 5 seconds of delay.
 	// 📚 (Chapter 1 Video 1 – Green Testing & Efficiency)
 	for (let i = 0; i < 5; i++) {
-		await page.waitForTimeout(3000);
+		await page.waitForTimeout(1000);
 	}
 
 	await page.waitForLoadState("domcontentloaded")
@@ -34,5 +34,5 @@ test("Slow test challenge – Can you optimise this?", async ({ page }) => {
 	);
 
 	// 🔴 Final unnecessary delay bloats test time even further.
-	await page.waitForTimeout(3000); // 📚 (Chapter 1 Video 5 – Parallelisation Advice)
+	await page.waitForTimeout(2000); // 📚 (Chapter 1 Video 5 – Parallelisation Advice)
 });
